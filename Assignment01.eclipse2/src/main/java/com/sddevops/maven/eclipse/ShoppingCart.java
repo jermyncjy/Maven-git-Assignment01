@@ -5,6 +5,6 @@ public class ShoppingCart {
 private int id;
 private String product_name;
 private String price;
-
+private String category;
 
 }
